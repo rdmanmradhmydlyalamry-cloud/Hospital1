@@ -1,0 +1,16 @@
+{
+  "name": "hospital-website",
+  "version": "1.0.0",
+  "description": "موقع مستشفى أورا كير - مبني باستخدام Node.js و Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  },
+  "keywords": ["hospital", "nodejs", "express", "medical"],
+  "author": "",
+  "license": "ISC"
+}
